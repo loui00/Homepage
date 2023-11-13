@@ -51,13 +51,13 @@
 	width: 100%;
 }
 .content{
-	widows: 100%;
+	width: 100%;
 	position: absolute;
 	top: 50%;
-	transform: translateY(-50%);
-	transform: translateX(30%);
 	text-align: center;
+	transform: translateY(-50%);
 	color: #fff;
+	margin: auto;
 }
 .content h1{
 	font-size: 70px;
